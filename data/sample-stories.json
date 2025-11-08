@@ -4,14 +4,8 @@
     "title": "Tam Tự Kinh",
     "author": "Khuyết danh",
     "content": [
-      {
-        "zh": "人之初，性本善。",
-        "vi": "Người mới sinh, bản tính vốn thiện."
-      },
-      {
-        "zh": "性相近，习相远。",
-        "vi": "Bản tính gần nhau, thói quen xa cách."
-      }
+      {"zh":"人之初，性本善。","vi":"Người mới sinh, bản tính vốn thiện."},
+      {"zh":"性相近，习相远。","vi":"Bản tính gần nhau, thói quen xa cách."}
     ]
   }
 ]

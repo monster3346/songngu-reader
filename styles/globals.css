@@ -1,5 +1,4 @@
-
-body { font-family: 'Arial', sans-serif; margin:0; padding:0; background-color:#fff; color:#000; }
-.dark body { background-color:#1e1e1e; color:#f0f0f0; }
-a { color: #0070f3; text-decoration: none; }
-a:hover { text-decoration: underline; }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { font-family: 'Arial', sans-serif; margin:0; padding:0; }
